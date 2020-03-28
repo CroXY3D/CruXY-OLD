@@ -27,4 +27,5 @@ CruXY offers a number of advantages over CoreXY designs.
   - Less friction in motion system makes for more accurate positioning
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
   
- ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall View?raw=true)
+  ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
+  ![Image of Printhead](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Printhead.png?raw=true)
