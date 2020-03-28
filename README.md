@@ -4,11 +4,11 @@ Crossed Gantry 3D Printer.  Crux means cross.  It's also the most difficult part
 CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with ball screws.
 
 It is a ground up design, based on concepts from the K2 and "Hypercube Overkill Project" 
-It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.
+It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
 
 This is an ALPHA release.  The printer has been assembled and is printing.
 
-# Major features of CruXY:
+# Major features of CruXY
   - 3030 and 3060 frame members for stiffness and ease of assembly
   - Crossed rail gantry design with 4 motors driving 9mm XY belts
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
@@ -25,7 +25,7 @@ This is an ALPHA release.  The printer has been assembled and is printing.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be possible.  Further with planned MGN15 gantry mod.
   - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.
 
-# CruXY offers a number of advantages over CoreXY designs.  
+# CruXY offers a number of advantages over CoreXY designs
   - Belts are shorter and have simple paths, alignment is easier and less ringing
   - Less friction in motion system makes for more accurate positioning
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
