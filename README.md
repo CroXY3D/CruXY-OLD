@@ -30,7 +30,7 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
   - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
   
 # BOM  
-CruXY build will cost approx $1500 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
+A CruXY build will cost approx $1500 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
   
   ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
   
