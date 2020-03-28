@@ -6,6 +6,7 @@ CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry d
 It is a ground up design, based on concepts from the K2 and "Hypercube Overkill Project" 
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.
 
+This is an ALPHA release.  The printer has been assembled and is printing.
 
 # Major features of CruXY:
   - 3030 and 3060 frame members for stiffness and ease of assembly
