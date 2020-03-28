@@ -16,7 +16,7 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
   - Direct Drive E3D Extruder (it is compatabile with K1/K2 printheads)
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing
   - Dedicated area for nozzle purge and wipe 
-  - Duet2 or Duet3 electronics.  Klipper support is planned
+  - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
   - Built in drawer for tools and or a spool that feeds the extruder
   - Footprint comparable to other printers of same bed size.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be possible.  Further with planned MGN15 gantry mod.
