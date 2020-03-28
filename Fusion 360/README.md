@@ -1,1 +1,1 @@
-Fusion archive files.  The overall design is too large for Github.  I'm looking into splitting it or hosting it on Dropbox or something like that
+Fusion archive files.  The overall design is too large for Github.  I'm looking into splitting it or hosting it on Dropbox or something like that. Combinging Frame, XY Assembly and Z Assembly will get most of the printer.
