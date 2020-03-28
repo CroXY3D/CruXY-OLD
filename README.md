@@ -6,6 +6,7 @@ CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry d
 It is a ground up design, based on concepts from the K2 and "Hypercube Overkill Project" 
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.
 
+
 # Major features of CruXY:
   - 3030 and 3060 frame members for stiffness and ease of assembly
   - Crossed rail gantry design with 4 motors driving 9mm XY belts
@@ -26,6 +27,10 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
   - Belts are shorter and have simple paths, alignment is easier and less ringing
   - Less friction in motion system makes for more accurate positioning
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
+  - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
+  
+# BOM  
+CruXY build will cost approx $1500 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here ![BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
   
   ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
   
