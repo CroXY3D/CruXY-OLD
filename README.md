@@ -47,3 +47,5 @@ A CruXY build will cost approx $1500 with budget rails.  A first class build wit
   ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
   
   ![Image of Printhead](https://github.com/wesc23/CruXY/blob/master/Images/Printhead.png?raw=true)
+  
+  ![IRL](https://github.com/wesc23/CruXY/blob/master/Images/IRL.jpg?raw=true)
