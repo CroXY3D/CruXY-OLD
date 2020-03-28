@@ -20,6 +20,7 @@ This is an ALPHA release.  The printer has been assembled and is printing.
   - Dedicated area for nozzle purge and wipe 
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
   - Built in drawer for tools and or a spool that feeds the extruder
+  - Feet with sorbothane vibration isolation.
   - Footprint comparable to other printers of same bed size.
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be possible.  Further with planned MGN15 gantry mod.
   - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.
@@ -29,6 +30,16 @@ This is an ALPHA release.  The printer has been assembled and is printing.
   - Less friction in motion system makes for more accurate positioning
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
   - Motion is simple X motors move X, Y motors move Y, so troubleshooting is easier
+  
+# Work to be done 
+  - Finish lid and enclosure, including front hinges
+  - Drawer slide mechanism
+  - External insulated enclosure
+  - Exhaust Fan and control
+  - Some trim pieces
+  - Wiring diagram
+  - Publish RRF config files.
+  
   
 # BOM  
 A CruXY build will cost approx $1500 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
