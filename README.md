@@ -22,10 +22,11 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
   - Design is for 250x250x250 nominal size.  Up to 350x350x500 should be possible.  Further with planned MGN15 gantry mod.
   - Minimal printed parts.  Most are designed to be easily machinable by aluminum for even more stiffness.
 
-CruXY offers a number of advantages over CoreXY designs.  
+# CruXY offers a number of advantages over CoreXY designs.  
   - Belts are shorter and have simple paths, alignment is easier and less ringing
   - Less friction in motion system makes for more accurate positioning
   - 4 motors moving the XY gantry make for more torque for more accurate positioning (1.4x-4x more torque)
   
   ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
+  
   ![Image of Printhead](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Printhead.png?raw=true)
