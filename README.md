@@ -29,4 +29,4 @@ It is simple to build, align and provision.  It uses a minimum of printed parts,
   
   ![Image of CruXY](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Overall_View.png?raw=true)
   
-  ![Image of Printhead](https://raw.githubusercontent.com/wesc23/CruXY/master/Images/Printhead.png?raw=true)
+  ![Image of Printhead](https://github.com/wesc23/CruXY/blob/master/Images/Printhead.png?raw=true)
