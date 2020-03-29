@@ -1,5 +1,5 @@
 # CruXY
-Crossed Gantry 3D Printer.  Crux means cross.  It's also the most difficult part of a mountain climbing route.
+Crossed Gantry 3D Printer.  Crux means cross.  It's also the most difficult part of a mountain climbing route.  Pronounced "Crooxy".
 
 CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with ball screws.
 
