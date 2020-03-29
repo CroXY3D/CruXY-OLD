@@ -1,7 +1,7 @@
 # CruXY
-Crossed Gantry 3D Printer.  Crux means cross.  It's also the most difficult part of a mountain climbing route.  Pronounced "Crew XY".
+Cruxy is a Crossed Gantry 3D Printer.  Crux means cross.  It's also the most difficult part of a mountain climbing route.  Pronounced "Crew XY".
 
-CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with ball screws.
+CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
 It is a ground up design, based on concepts from the K2 and "Hypercube Overkill Project" 
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
@@ -14,7 +14,7 @@ This is an ALPHA release.  The printer has been assembled and is printing.
   - Triple SFU1204 ball screw driven Z for automatic bed levelling
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple
   - Linear Rails are all MGN12
-  - Bed 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets
+  - Bed 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets.  Thicker beds are possible.
   - Direct Drive E3D Extruder (it is compatabile with K1/K2 printheads)
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing
   - Dedicated area for nozzle purge and wipe 
