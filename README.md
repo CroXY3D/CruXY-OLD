@@ -3,10 +3,11 @@ Cruxy is a Crossed Gantry 3D Printer.  Crux means cross.  It's also the most dif
 
 CruXY is a fully enclosed 3D Quadrap printer with a crossed linear rail gantry design, direct drive extruder and a kinematically mounted bed that moves in Z with three ball screws.
 
-It is a ground up design, based on concepts from the K2 and "Hypercube Overkill Project" 
+It is a ground up design, based on concepts from the [Annex Engineering K2](https://github.com/Annex-Engineering/Chhogori-K2) and the [Hypercube Overkill Project](https://reprap.org/forum/read.php?177,807843,807843).  
+
 It is simple to build, align and provision.  It uses a minimum of printed parts, many of which will be easily machinable out of aluminum.  Print quality is superb.
 
-This is an ALPHA release.  The printer has been assembled and is printing.
+This is an ALPHA release.  The printer has been assembled and is printing.  Plan is to move it to under the Annex Engineering umbrella upon BETA.
 
 # Major features of CruXY
   - 3030 and 3060 frame members for stiffness and ease of assembly
