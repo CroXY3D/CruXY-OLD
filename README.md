@@ -16,7 +16,7 @@ This is an ALPHA release.  The printer has been assembled and is printing.  Plan
   - Z Towers are built on a single 3060 extrusion making ball screw and rail alignment extremely simple
   - Linear Rails are all MGN12
   - Bed 6mm Mic6 and is kinematically mounted with Maxwell joints preloaded by magnets.  Thicker beds are possible.
-  - Direct Drive E3D Extruder (it is compatabile with K1/K2 printheads)
+  - Hemera Direct Drive E3D Extruder (it is compatabile with Annex Engineering K1/K2 printheads)
   - Magnetically coupled switch based probe picked up from a dock for super accurate bed probing
   - Dedicated area for nozzle purge and wipe 
   - Duet2 or Duet3 electronics with Reprap firmware 2 or 3.  Klipper support is planned
