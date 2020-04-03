@@ -45,6 +45,9 @@ This is an ALPHA release.  The printer has been assembled and is printing.  Plan
 # BOM  
 A CruXY build will cost approx $1500 with budget rails.  A first class build with Misumi stainless steel rails will run around $2500.  An incomplete BOM can be found here [BOM](https://docs.google.com/spreadsheets/d/1nd5IvDQm3_plhFC6qLKJPE1nMU45jPsB3Xuin5mlSXQ/edit?usp=sharing)
 
+# NOTES
+Fusion360 archives probably lag the state of the STLs.  Export of them is somwewhat painful, so I don't always do it.
+
 # PICS
 Video coming soon.
 
