@@ -11,7 +11,7 @@ SMT LED and resistor are optional on the upper PCB to create visual indicator of
 * 4 - M2x5 countersunk steel screws.  (#2 and up to 10mm length ok)
 * 2 - M3x8 SHCS stainless steel screws (non magnetic)
 * 1 - 2 pin 2.54mm pitch straight, right angled, dupont or xh connector.   If using the optional SMT LED indicator this must be 3 pins.
-* 1 - 1206 SMT LED (Optional)
+* 1 - 1206 SMT Red,Yellow or Green LED (Optional)
 * 1 - 1206 SMT 1K Resistor (Optional)
 
 ### Bottom Board Assembly
@@ -35,13 +35,13 @@ Example probe dock and .step files of assembled boards included for you convenie
 
 iso
 ### Parts Sources
-* 2 Z-Probe PCBs: As of 11/20/2020, $8.70 shipped for 3 boards. https://oshpark.com/shared_projects/EyU9h4uk
-* 4 1/4x1/8 or 8mmx3mm axially magnetized countersunk magnets.  Two magnets must have N on countersink side, two with S on countersink side. https://www.kjmagnetics.com/proddetail.asp?prod=R422CS-P-N52 or https://www.mcmaster.com/5862K223/
-* 1 OMRON D2F-01F-A1 snap action switch https://octopart.com/d2f-01f-a1-omron-1437650?r=sp
-* 4 M2x5 countersunk steel screws https://www.mcmaster.com/91420a002.  Possibly scavange these from old plastic toys or electronics.
-* 2 M3x8 SHCS stainlss steel screws
-* 1 2 pin 2.54mm pitch straight, right angled, dupont or xh connector.   If using the optional SMT LED indicator this must be 3 pins.
-* 1 1206 SMT LED (Optional)
-* 1 1206 SMT 1K Resistor (Optional)
+* Z-Probe PCBs: As of 11/20/2020, $8.70 shipped for 3 boards. https://oshpark.com/shared_projects/EyU9h4uk
+* 1/4x1/8 or 8mmx3mm axially magnetized countersunk magnets.  Two magnets must have N on countersink side, two with S on countersink side. https://www.kjmagnetics.com/proddetail.asp?prod=R422CS-P-N52 or https://www.mcmaster.com/5862K223/
+* OMRON D2F-01F-A1 snap action switch https://octopart.com/d2f-01f-a1-omron-1437650?r=sp
+* M2x5 countersunk steel screws https://www.mcmaster.com/91420a002.  Possibly scavange these from old plastic toys or electronics.
+* M3x8 SHCS stainlss steel screws
+* 2 pin 2.54mm pitch straight, right angled, dupont or xh connector.   If using the optional SMT LED indicator this must be 3 pins.
+* 1206 SMT Red, Yellow or Green LED (Optional)
+* 1206 SMT 1K Resistor (Optional)
 
 
