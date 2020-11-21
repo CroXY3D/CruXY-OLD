@@ -4,16 +4,29 @@ iso iso iso
 
 SMT LED and resistor are optional on the upper PCB to create visual indicator of switch action.
 
-###Bottom Board Assembly
-Solder the switch to the board and install the magnets on the same side. Magnets should be cinched down snug to the pads on the PCB. Pay attention to the magnet polarity as you assemble.  One of the magnets should have N pole up, the other S pole up.
+### Parts
+* 2 Z-Probe PCBs
+* 4 1/4x1/8 or 8mmx3mm axially magnetized countersunk magnets.  Two magnets must have N on countersink side, two with S on countersink side.
+* 1 OMRON D2F-01 snap action switdch
+* 4 M2x6 countersunk screws
+* 2 M3 SHCS screws
+* 1 2 pin 2.54mm pitch straight, right angled, dupont or xh connector.   If using the optional SMT LED indicator this must be 3 pins.
+* 1 1206 SMT LED (Optional)
+* 1 1206 SMT 1K Resistor (Optional)
 
+### Bottom Board Assembly
+Solder the switch to the board.  
 
-###Top Board Assembly
-Test out your magnets polarity direction- put a piece of paper over the board, and place the remaining magnets on top to orient themselves. Don't let the magnets slam together, they can chip. This way you can slide them off more easily.
+Test out your magnets polarity direction - The magnets must be assembled in pairs with the countersinks facing each other.
+put a piece of paper over the board, and place the remaining magnets on top to orient themselves. Don't let the magnets slam together, they can chip. This way you can slide them off more easily.  Install the magnets on the opposite side as the switch.  One of the magnets should have N pole up, the other S pole up.  Magnets should be cinched down snug to the pads on the PCB with the countersunk M2 screws. 
+ 
+### Top Board Assembly
+#### Optional LED indicator
+The top board can be populated with an LED to indicate when the probe has made contact. The SMT pads are on both sides of the board so the LED indicator can be on either side of the top board.  The LED will not work on the bottom probe board.  The board will require a VCC connection to use the LED and thus will require a 3 pin header.  If not using an LED you may use a 2 pin connector inserted into SIG-GND. Solder a 1k 1206 resistor and a 1206 LED of your choice.  Pay attention to LED polarity.
+
 
 Solder on the standard 2.54mm pitch header of your choice- straight, or angled, DuPont, or JST-XH(DELETE and solder it on). Optional SMT 1k resistor and LED can be installed in the position of your choice. Direct connection of the wires is also possible. Pin assignments / wiring connections are labeled for your convenience.
 
-SMT components: The SMT pads are on both sides of the board, so (The) LED can be on either side) can reverse the position of the LEDS. LEDS will ONLYy work oh the TOP board and if you connect a 3-pin header to SIG-VCC-GND (and provide VCC.  If you do not wish to use LEDs the board will function with a 2-pin header with just SIG and GND connected). Mount a 1k (1206) 0603 resistor and (1206) 0803 LED of your choice. (REDUNDANT, DELETE:) The pads are on both sides of the board, so you can reverse the position of the LEDS by flipping the board over.
 
 Example probe dock and .step files of assembled boards included for you convenience.
 
